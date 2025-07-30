@@ -17,3 +17,21 @@
 ```bash
 python3 autorecon.py
 
+## Prasyarat
+
+Pastikan tools berikut sudah terinstal di sistem kamu:
+
+nmap
+
+nikto
+
+whois
+
+📝 Catatan
+Tool ini ditujukan untuk pembelajaran dan latihan pentest di lingkungan yang legal dan terkontrol.
+Jangan digunakan untuk aktivitas yang melanggar hukum atau tanpa izin.
+
+👤 Kontak
+
+Dikembangkan oleh: Mochamad Alif Al Fajar
+🐱 GitHub: @MochamadAlifCyberSec
